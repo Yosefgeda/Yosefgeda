@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosefgeda" alt="yosefgeda" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://yosefgeda.github.io/My-Portfolio/](https://yosefgeda.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available [Here](https://yosefgeda.github.io/My-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
